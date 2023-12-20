@@ -1,4 +1,4 @@
-package com.example.galleryappdemo;
+package com.example.galleryappdemo.Interfaces;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

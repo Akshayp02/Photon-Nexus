@@ -1,4 +1,4 @@
-package com.example.galleryappdemo;
+package com.example.galleryappdemo.Interfaces;
 
 
 import com.google.gson.annotations.Expose;

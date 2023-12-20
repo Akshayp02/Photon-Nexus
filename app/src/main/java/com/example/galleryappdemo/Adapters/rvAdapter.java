@@ -14,7 +14,7 @@ import com.bumptech.glide.load.DataSource;
 import com.bumptech.glide.load.engine.GlideException;
 import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.target.Target;
-import com.example.galleryappdemo.Pojo;
+import com.example.galleryappdemo.Interfaces.Pojo;
 import com.example.galleryappdemo.R;
 import com.example.galleryappdemo.databinding.RvImgBinding;
 
